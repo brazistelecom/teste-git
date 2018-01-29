@@ -7,7 +7,7 @@
     <body>
         <?php
         // put your code here
-        echo "teste inicial";
+        echo "teste inicial hoje";
         ?>
     </body>
 </html>
