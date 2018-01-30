@@ -10,6 +10,7 @@
         echo "teste de git e github";
         echo "nova linha teste";
         echo "nova linha teste cpu-2";
+        echo "nova linha teste cpu-1";
         ?>
     </body>
 </html>
